@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dcgleason / Dan
 - 👀 I’m interested in blockchain development, entreprenership, and full-stack development. 
-- 🌱 I’m currently learning Solidity, Truffle, TypeScript, and Node.js.
 - 💞️ I’m looking to collaborate on any Ethereum dev work (smart contracts, etc)
 - 📫 How to reach me: email me at danny.c.gleason@gmail.com if you'd like!
 
