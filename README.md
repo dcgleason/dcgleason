@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dcgleason / Dan
-- 👀 I’m interested in blockchain development, entreprenership, and full-stack development. 
-- 💞️ I’m looking to collaborate on any Ethereum dev work (smart contracts, etc)
+- 👀 I’m interested in entreprenership and full-stack development. 
+- 💞️ I’m open to collaborating on projects (particularly like to work in JS - React, Node.js, Express.js)
 - 📫 How to reach me: email me at danny.c.gleason@gmail.com if you'd like!
 
 <!---
